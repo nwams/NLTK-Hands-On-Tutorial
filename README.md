@@ -7,7 +7,7 @@ I code examples that cover the following topics:
 
 * Deriving N-Grams from Text &mdash; Creating n-grams (for language classification)
 
-* Detecting Text Language by Counting Stop Words.ipynb &mdash; A simple way to find out what language a text is written in
+* Detecting Text Language by Counting Stop Words &mdash; A simple way to find out what language a text is written in
 
 * Language Identifier Using Word Bigrams &mdash; State-of-the-art language classifier
 
