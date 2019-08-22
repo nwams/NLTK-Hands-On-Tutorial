@@ -84,7 +84,7 @@
 84 English
 85 Italian
 86 English
-87 Italian
+87 French
 88 English
 89 English
 90 French
