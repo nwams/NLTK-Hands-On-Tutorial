@@ -3,13 +3,13 @@
 
 I code examples that cover the following topics:
 
-1. Text Analysis Using nltk.text &mdash; Extracting interesting data from a given text. [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/1-2-Text-Analysis-Using-nltk.text.ipynb)]
+1. Text Analysis Using nltk.text &mdash; Extracting interesting data from a given text. [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/1-Text-Analysis-Using-nltk.text.ipynb)]
 
-2. Deriving N-Grams from Text &mdash; Creating n-grams (for language classification). [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/2-1-Deriving-N-Grams-from-Text.ipynb)]
+2. Deriving N-Grams from Text &mdash; Creating n-grams (for language classification). [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/2-Deriving-N-Grams-from-Text.ipynb)]
 
-3. Detecting Text Language by Counting Stop Words &mdash; A simple way to find out what language a text is written in. [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/2-2-Detecting-Text-Language-by-Counting-Stop-Words.ipynb)]
+3. Detecting Text Language by Counting Stop Words &mdash; A simple way to find out what language a text is written in. [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/3-Detecting-Text-Language-by-Counting-Stop-Words.ipynb)]
 
-4. Language Identifier Using Word Bigrams &mdash; State-of-the-art language classifier. [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/2-3-Language-Identifier-Using-Word-Bigrams.ipynb)]
+4. Language Identifier Using Word Bigrams &mdash; State-of-the-art language classifier. [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/4-Language-Identifier-Using-Word-Bigrams.ipynb)]
 
 5. Bigrams, Stemming and Lemmatizing &mdash; NLTK makes bigrams, stemming and lemmatization super easy
 
