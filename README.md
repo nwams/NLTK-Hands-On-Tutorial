@@ -15,6 +15,6 @@ I code examples that cover the following topics:
 
 6. Finding Unusual Words in Given Language &mdash; Which words do not belong with the rest of the text? [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/6-Finding-Unusual-Words-in-Given-Language.ipynb)]
 
-7. Creating a Parts of Speech Tagger
+7. Creating a Part-of-Speech Tagger
 
-8. Parts of Speech and Meaning &mdash; Exploring awesome features offered by WordNet
+8. Part-of-Speech and Meaning &mdash; Exploring awesome features offered by WordNet
