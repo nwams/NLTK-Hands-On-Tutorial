@@ -11,7 +11,7 @@ I code examples that cover the following topics:
 
 4. Language Identifier Using Word Bigrams &mdash; State-of-the-art language classifier. [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/4-Language-Identifier-Using-Word-Bigrams.ipynb)]
 
-5. Bigrams, Stemming and Lemmatizing &mdash; NLTK makes bigrams, stemming and lemmatization super easy
+5. Bigrams, Stemming and Lemmatizing &mdash; NLTK makes bigrams, stemming and lemmatization super easy. [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/5-Stemming-Lemmatizing-and-Bigrams.ipynb)]
 
 6. Finding Unusual Words in Given Language &mdash; Which words do not belong with the rest of the text?
 
