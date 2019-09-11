@@ -1,5 +1,5 @@
 # NLTK-Hands-On-Tutorial
- This is a hands-on [NLTK tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) that I completed in Jupyter notebooks. Github does not render the entire Jupyter Notebook .ipynb file if it's large, so please use the links below to view my code (rendered by nbviewer).
+ This is a hands-on [NLTK tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) that I completed in Jupyter notebooks. Github does not render the entire Jupyter Notebook .ipynb file if it's size or outputs are large, so please use the links below to view my code (rendered by nbviewer).
 
 I code examples that cover the following topics:
 
