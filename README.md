@@ -19,4 +19,4 @@ I code examples that cover the following topics:
 
 8. Part-of-Speech and Meaning &mdash; Exploring awesome features offered by WordNet [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/8-Parts-of-Speech-and-Meaning.ipynb)]
 
-9. Eminem, Akon & NLP &mdash; I use NLTK to perform stemming, lemmatiziation, tokenization, stop word removal on a dataset of my choice [[View code]()]
+9. Eminem, Akon & NLP &mdash; I use NLTK to perform stemming, lemmatiziation, tokenization, stop word removal this dataset where Akon explains how Eminem treats recording music like a nine-to-five job [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/9-Eminem%2C%20Akon%20%26%20NLP.ipynb)]
