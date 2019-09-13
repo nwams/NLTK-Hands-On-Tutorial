@@ -18,3 +18,5 @@ I code examples that cover the following topics:
 7. Creating a Part-of-Speech Tagger [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/7-Creating-a-Part-of-Speech-Tagger.ipynb)]
 
 8. Part-of-Speech and Meaning &mdash; Exploring awesome features offered by WordNet [[View code](https://nbviewer.jupyter.org/github/nwams/NLTK-Hands-On-Tutorial/blob/master/8-Parts-of-Speech-and-Meaning.ipynb)]
+
+9. Eminem, Akon & NLP &mdash; I use NLTK to perform stemming, lemmatiziation, tokenization, stop word removal on a dataset of my choice [[View code]()]
